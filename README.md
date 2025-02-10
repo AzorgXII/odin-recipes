@@ -1,3 +1,3 @@
 # odin-recipes
 
-Simple recipe page made from HTML.
+Three Recipes pages made from HTML.
